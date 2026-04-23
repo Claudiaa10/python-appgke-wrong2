@@ -8,5 +8,5 @@ spec:
     app: python-appgkee
   ports:
     - protocol: TCP
-      port: 80
-      targetPort: 500
+      port: 500
+      targetPort: 80
